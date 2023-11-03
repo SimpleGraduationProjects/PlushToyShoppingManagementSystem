@@ -1,4 +1,3 @@
-毛绒玩具购物管理系统-毕业设计
 [全目录地址:https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 # 300.PlushToyShoppingManagementSystem
 
